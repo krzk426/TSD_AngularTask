@@ -1,0 +1,7 @@
+<a routerLink="/">Notes List</a>
+
+<div>
+    <label for="name">Note text: </label>
+    <input id="name" [(ngModel)]="note.text" placeholder="name">
+  </div>
+  <button (click)="save()">save</button>
