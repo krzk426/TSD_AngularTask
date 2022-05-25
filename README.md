@@ -1,3 +1,7 @@
+
+KATARZYNA KULESA 141259
+wersja na 15 punktów
+
 # TsdAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
